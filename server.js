@@ -77,8 +77,5 @@ app.listen(3000, () => {
  - Atualizar um usuário
  - Deletar um usuário
 
- Banco de daddos acess
-  user: guialves
-  senha: guialves1
 */
 
